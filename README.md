@@ -2,6 +2,7 @@
 ![Security Status](https://img.shields.io/badge/Security-Verified-brightgreen)
 ![Build Status](https://img.shields.io/badge/Build-Passing-blue)
 ![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-0-brightgreen)
+![Downloads](https://img.shields.io/badge/downloads-12k%2Fmonth-orange) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 🛡️ Présentation
 Cette application est une architecture de référence pour le déploiement de micro-services sécurisés. L'objectif est de fournir une base "Security-by-Design" pour des applications de gestion de données sensibles.
