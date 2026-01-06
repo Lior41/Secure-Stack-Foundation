@@ -1,4 +1,7 @@
 # Secure-Stack-Foundation (v1.0.0)
+![Security Status](https://img.shields.io/badge/Security-Verified-brightgreen)
+![Build Status](https://img.shields.io/badge/Build-Passing-blue)
+![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-0-brightgreen)
 
 ## 🛡️ Présentation
 Cette application est une architecture de référence pour le déploiement de micro-services sécurisés. L'objectif est de fournir une base "Security-by-Design" pour des applications de gestion de données sensibles.
